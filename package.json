@@ -1,0 +1,16 @@
+{
+  "name": "missing",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^3.0.1",
+    "node-storage": "0.0.7",
+    "trakt.tv": "^6.0.1"
+  }
+}

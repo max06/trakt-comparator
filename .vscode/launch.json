@@ -1,0 +1,16 @@
+{
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "type": "node",
+                "request": "launch",
+                "name": "Launch Program",
+                "program": "${workspaceRoot}\\index.js",
+                "env": {
+                    "DEBUG": "*",
+                    "DEBUG_DEPTH": 6
+                },
+                "console": "integratedTerminal"
+            }
+        ]
+    }
